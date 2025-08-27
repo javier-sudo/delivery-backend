@@ -1,4 +1,4 @@
-// controllers/userController.js prueba
+// controllers/userController.js prueba 2 mejore el controller para prueba
 const User = require('../models/user');
 const Rol = require('../models/rol');
 const bcrypt = require('bcrypt');
