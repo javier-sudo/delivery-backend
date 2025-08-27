@@ -1,4 +1,4 @@
-// controllers/userController.js
+// controllers/userController.js prueba
 const User = require('../models/user');
 const Rol = require('../models/rol');
 const bcrypt = require('bcrypt');
